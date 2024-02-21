@@ -40,4 +40,4 @@ Monitoring: Log important events or warnings during the program's execution to m
 Exception Handling: Log errors and exceptions to identify and diagnose issues in production.
 
 Example
-Check the provided example in the example.py file to see how logging can be integrated into a simple Python program.
+Check the provided example in the my_logging_project.py file to see how logging can be integrated into a simple Python program.
